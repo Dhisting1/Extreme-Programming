@@ -21,6 +21,6 @@ Este repositório contém os seguintes arquivos e recursos:
    ```bash
    git clone https://github.com/seu_usuario/Extreme-Programming.git
 
-##🤝 Contribuições
+## 🤝 Contribuições
 Contribuições são sempre bem-vindas! Se você tem sugestões, melhorias ou correções, não hesite em abrir uma issue ou enviar um pull request. 
 Juntos, podemos aprimorar nosso entendimento sobre o Extreme Programming!
